@@ -1,2 +1,3 @@
 # raffler-stryke
- Raffler app on Stryke.io
+
+ Raffler app on [Stryke](app.stryke.io)
